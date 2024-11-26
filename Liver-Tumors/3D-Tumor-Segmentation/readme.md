@@ -51,3 +51,8 @@ The model's performance is assessed using:
 
     Pixel Accuracy (PA): The ratio of correctly predicted pixels to the total pixels.
     Mean Intersection over Union (mIoU): A robust metric that evaluates the overlap between predicted and ground truth masks.
+
+
+![](https://github.com/LIMON100/Ai-for-Medical/blob/master/Liver-Tumors/3D-Tumor-Segmentation/images/mi1.PNG?raw=true)
+![](https://github.com/LIMON100/Ai-for-Medical/blob/master/Liver-Tumors/3D-Tumor-Segmentation/images/mi2.PNG?raw=true)
+![](https://github.com/LIMON100/Ai-for-Medical/blob/master/Liver-Tumors/3D-Tumor-Segmentation/images/mi3.PNG?raw=true)
